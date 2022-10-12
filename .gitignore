@@ -5,3 +5,4 @@ data/
 # pyc files
 *.pyc
 /img/
+/dataset
